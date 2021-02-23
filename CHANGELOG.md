@@ -10,6 +10,7 @@ permalink: /docs/en-US/changelog/
 
 ### Enhancements
 
+* PHP v7.4 is now the default PHP ( other versions are available on CLI if installed via `php73`, `php72`, etc )
 * Beautify the PHP debug switcher script
 * Support for basic formatting tags in `vvv_warn` `vvv_error` `vvv_info` and `vvv_success`
 * A new `vvv_output` and `vvv_format_output` bash functions
