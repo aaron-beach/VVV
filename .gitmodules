@@ -1,0 +1,3 @@
+[submodule "public_html/wp-content/public_html/wp-content/plugins/vue-customer-portal"]
+	path = public_html/wp-content/public_html/wp-content/plugins/vue-customer-portal
+	url = https://github.com/aaron-beach/vuejs-wordpress-plugin-starter.git
